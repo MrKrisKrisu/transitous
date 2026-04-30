@@ -15,6 +15,7 @@
             "type": "http",
             "url": "https://jbb.ghsq.de/gtfs/ro-railway.gtfs.zip",
             "license": {
+                "spdx-identifier": "OGL-ROU-1.0",
                 "url": "https://data.gov.ro/base/images/logoinst/OGL-ROU-1.0.pdf"
             }
         },
